@@ -1,2 +1,2 @@
-# TIC_TAC_TOE_APPLICATION
+ # TicTacToe Titan: Dominate the Board
 This is the part of my Web Development Projects
